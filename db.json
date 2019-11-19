@@ -8,11 +8,11 @@
     { "id": 1, "title": "Logan" },
     { "id": 2, "title": "The Matrix" },
     { "id": 3, "title": "Avatar" },
-    { "id": 3, "title": "Avengers" },
-    { "id": 3, "title": "Pulp Fiction" },
-    { "id": 3, "title": "Lawrence of Arabia" },
-    { "id": 3, "title": "Titanic" },
-    { "id": 3, "title": "Terminator 2" }
+    { "id": 4, "title": "Avengers" },
+    { "id": 5, "title": "Pulp Fiction" },
+    { "id": 6, "title": "Lawrence of Arabia" },
+    { "id": 7, "title": "Titanic" },
+    { "id": 8, "title": "Terminator 2" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
